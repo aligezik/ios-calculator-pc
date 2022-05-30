@@ -1,2 +1,1 @@
-# ios-calculator-pc
-ios calc
+IOS Calculator
