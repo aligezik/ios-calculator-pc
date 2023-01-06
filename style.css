@@ -37,7 +37,7 @@ body{
     justify-content: space-evenly;
     /* background-color: red; */
 }
-p{
+a{
     font-size: 1rem;
     color: yellow;
     font-style: italic;
