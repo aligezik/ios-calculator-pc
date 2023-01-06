@@ -35,6 +35,12 @@ body{
     font-size: 60px;
     flex-direction: column;
     justify-content: space-evenly;
+    /* background-color: red; */
+}
+p{
+    font-size: 1rem;
+    color: yellow;
+    font-style: italic;
 }
 .buttons{
     display: grid;
